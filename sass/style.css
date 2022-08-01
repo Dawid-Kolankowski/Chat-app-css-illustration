@@ -200,6 +200,7 @@ body {
   align-items: center;
   justify-content: center;
   position: relative;
+  margin-left: 105px;
 }
 .phone__content {
   width: 228px;
@@ -396,6 +397,7 @@ body {
     right: -323px;
   }
   .phone {
+    margin-left: 0;
     margin: 64px 0;
   }
   .text-wrapper {

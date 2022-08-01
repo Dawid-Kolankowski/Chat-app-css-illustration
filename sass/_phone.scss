@@ -41,6 +41,7 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  margin-left: 105px;
 
   &__content {
     width: 228px;
@@ -243,6 +244,7 @@
     }
   }
   .phone {
+    margin-left: 0;
     margin: 64px 0;
   }
   .text-wrapper {
